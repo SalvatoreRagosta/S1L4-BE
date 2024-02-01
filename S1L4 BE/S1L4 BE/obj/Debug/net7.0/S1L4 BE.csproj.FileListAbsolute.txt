@@ -1,0 +1,5 @@
+/Users/sasy/Desktop/S1L4 BE/S1L4 BE/obj/Debug/net7.0/S1L4 BE.csproj.AssemblyReference.cache
+/Users/sasy/Desktop/S1L4 BE/S1L4 BE/obj/Debug/net7.0/S1L4 BE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasy/Desktop/S1L4 BE/S1L4 BE/obj/Debug/net7.0/S1L4 BE.AssemblyInfoInputs.cache
+/Users/sasy/Desktop/S1L4 BE/S1L4 BE/obj/Debug/net7.0/S1L4 BE.AssemblyInfo.cs
+/Users/sasy/Desktop/S1L4 BE/S1L4 BE/obj/Debug/net7.0/S1L4 BE.csproj.CoreCompileInputs.cache
